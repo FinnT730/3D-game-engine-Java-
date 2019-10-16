@@ -6,20 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e2828d7-9698-4991-bae8-7610f59ffcba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/extras.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/engineFT/src/main/java/TESTING.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/engineFT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/engineFT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/extras/engineFT/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/extras/engineFT/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cam/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ughug.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ughug.iml" afterDir="false" />
-    </list>
+    <list default="true" id="9e2828d7-9698-4991-bae8-7610f59ffcba" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571250738404</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="I want to make this work, so that I can use the extra tools folder to make the app work better in the Main app.&#10;I hope this is possible, and if you have a solution, please share. It would help a lot!">
+      <created>1571252473053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571252473053</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +185,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Init + Math is done.&#10;Rendering should be made, so 3D will be possible!!" />
     <MESSAGE value="Add more tools?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add more tools?" />
+    <MESSAGE value="I want to make this work, so that I can use the extra tools folder to make the app work better in the Main app.&#10;I hope this is possible, and if you have a solution, please share. It would help a lot!" />
+    <option name="LAST_COMMIT_MESSAGE" value="I want to make this work, so that I can use the extra tools folder to make the app work better in the Main app.&#10;I hope this is possible, and if you have a solution, please share. It would help a lot!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
