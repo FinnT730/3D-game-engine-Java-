@@ -67,13 +67,13 @@ public class Main extends Component {
             float[][] x = mat3D(i, j, k);
             g.setColor(Color.RED);
 //            g.drawLine(frame.getWidth() / 2, frame.getHeight() / 2 + 50, (int) x[0][1], (int) util.Vec3Mul(i,j,k)[0]);
-            g.drawRect(frame.getWidth() / 2 - (int)x[0][1],frame.getHeight() / 2 - (int)x[0][1],(int)util.Vec3Add(i,j,k)[0],(int)util.Vec3Add(i,j,k)[1] / 5);
+            g.drawLine(frame.getWidth() / 2 - (int)x[0][1],frame.getHeight() / 2 - (int)x[0][1],(int)util.Vec3Add(i,j,k)[0],(int)util.Vec3Add(i,j,k)[1] / 5);
             g.setColor(Color.BLACK);
 //            g.drawLine(frame.getWidth() / 2, frame.getHeight() / 2 + 50, (int) x[0][0], (int) util.Vec3Mul(i,j,k)[1]);
-            g.drawRect(frame.getWidth() / 2 - (int)x[0][1],(int)x[1][0],frame.getHeight() / 2 - (int)util.Vec3Add(i,j,k)[0],(int)util.Vec3Add(i,j,k)[1]);
+            g.drawLine(frame.getWidth() / 2 - (int)x[0][1],frame.getHeight() / 2 - (int)x[1][0],(int)util.Vec3Add(i,j,k)[0],(int)util.Vec3Add(i,j,k)[1]);
             g.setColor(Color.BLUE);
 //            g.drawLine(frame.getWidth() / 2, frame.getHeight() / 2 + 50, (int) x[1][1], (int) util.Vec3Mul(i,j,k)[2]);
-            g.drawRect(frame.getWidth() / 2 - (int)x[0][1],(int)x[1][1],frame.getHeight() / 2 - (int)util.Vec3Add(i,j,k)[0],(int)util.Vec3Add(i,j,k)[0]);
+            g.drawLine(frame.getWidth() / 2 - (int)x[0][1],frame.getHeight() / 2 - (int)x[1][1],(int)util.Vec3Add(i,j,k)[0],(int)util.Vec3Add(i,j,k)[0]);
         }
     }
 }
