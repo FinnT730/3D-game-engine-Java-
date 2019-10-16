@@ -2,10 +2,10 @@
   <artifact type="jar" name="CleanJar">
     <output-path>$PROJECT_DIR$/out/artifacts/CleanJar</output-path>
     <root id="archive" name="CleanJar.jar">
-      <element id="module-output" name="ughug" />
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
       </element>
+      <element id="module-output" name="ughug" />
     </root>
   </artifact>
 </component>
