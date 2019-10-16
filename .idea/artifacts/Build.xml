@@ -8,9 +8,6 @@
         <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
       </element>
       <element id="module-output" name="engineFT.main" />
-      <element id="directory" name="engineFT">
-        <element id="module-output" name="ughug" />
-      </element>
     </root>
   </artifact>
 </component>

@@ -6,7 +6,27 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e2828d7-9698-4991-bae8-7610f59ffcba" name="Default Changelist" comment="" />
+    <list default="true" id="9e2828d7-9698-4991-bae8-7610f59ffcba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/gradle.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/build/classes/java/main/TESTING.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/src/main/java/TESTING.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +92,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="D:/Android-Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/extras" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15287244" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -88,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.engineFT [build]">
+  <component name="RunManager" selected="Application.Run">
     <configuration name="Run" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="cam.Main" />
       <module name="ughug" />
@@ -167,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571252473053</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="auto build test 2">
+      <created>1571252714198</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571252714198</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,7 +213,8 @@
     <MESSAGE value="Init + Math is done.&#10;Rendering should be made, so 3D will be possible!!" />
     <MESSAGE value="Add more tools?" />
     <MESSAGE value="I want to make this work, so that I can use the extra tools folder to make the app work better in the Main app.&#10;I hope this is possible, and if you have a solution, please share. It would help a lot!" />
-    <option name="LAST_COMMIT_MESSAGE" value="I want to make this work, so that I can use the extra tools folder to make the app work better in the Main app.&#10;I hope this is possible, and if you have a solution, please share. It would help a lot!" />
+    <MESSAGE value="auto build test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto build test 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
