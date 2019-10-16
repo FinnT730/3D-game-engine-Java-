@@ -8,15 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e2828d7-9698-4991-bae8-7610f59ffcba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CleanJar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/engineFT.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/build/classes/java/main/META-INF/engineFT.main.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cam/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ughug.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ughug.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +69,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="1SI2ZszDP3kgnvmNbUDvarBvCKT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -102,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.engineFT [init]">
+  <component name="RunManager" selected="Application.Run">
     <configuration name="Run" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="cam.Main" />
       <module name="ughug" />
@@ -217,8 +211,18 @@
       <option name="project" value="LOCAL" />
       <updated>1571252869315</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Less clutter, no more sub-projects in this project">
+      <created>1571254729008</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571254729008</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -240,7 +244,8 @@
     <MESSAGE value="I want to make this work, so that I can use the extra tools folder to make the app work better in the Main app.&#10;I hope this is possible, and if you have a solution, please share. It would help a lot!" />
     <MESSAGE value="auto build test 2" />
     <MESSAGE value="UPDATED!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="UPDATED!!" />
+    <MESSAGE value="Less clutter, no more sub-projects in this project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Less clutter, no more sub-projects in this project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -60,6 +60,7 @@ public class Main extends Component {
     public void paint(final Graphics g) {
         super.paint(g);
         Utils util = new Utils();
+        assert util != null;
         for(int p = 0; p < 360; p++) {
             float[] i = new float[]{p + 50, 30, 16};
             float[] j = new float[]{75, 50, p * 7};
