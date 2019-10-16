@@ -6,12 +6,24 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e2828d7-9698-4991-bae8-7610f59ffcba" name="Default Changelist" comment="Init + Math is done.&#10;Rendering should be made, so 3D will be possible!!">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="9e2828d7-9698-4991-bae8-7610f59ffcba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/engineFT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/engineFT.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/engineFT.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extras/engineFT/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extras/engineFT/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extras/engineFT/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extras/engineFT/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extras/engineFT/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extras/engineFT/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Build/Build.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Build/Build.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ughug/cam/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ughug/cam/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cam/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ughug.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ughug.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +33,23 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/extras/engineFT">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,12 +63,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SI2ZszDP3kgnvmNbUDvarBvCKT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="D:/Android-Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -85,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571248502738</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Init + Math is done.&#10;Rendering should be made, so 3D will be possible!!">
+      <created>1571248690014</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571248690014</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +139,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Init + Math is done.&#10;Rendering should be made, so 3D will be possible!!" />
     <option name="LAST_COMMIT_MESSAGE" value="Init + Math is done.&#10;Rendering should be made, so 3D will be possible!!" />
   </component>
