@@ -3,38 +3,26 @@
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
       <artifact name="Build" />
+      <artifact name="CleanJar" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e2828d7-9698-4991-bae8-7610f59ffcba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/gradle.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/5.2.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/build/classes/java/main/TESTING.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extras/engineFT/src/main/java/TESTING.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CleanJar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/engineFT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extras/engineFT/build/classes/java/main/META-INF/engineFT.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cam/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ughug.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ughug.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/extras/engineFT">
@@ -52,18 +40,24 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="engineFT" type="f1a62948:ProjectNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="engineFT" type="f1a62948:ProjectNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="engineFT" type="f1a62948:ProjectNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -91,8 +85,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="D:/Android-Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/extras" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15287244" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -108,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run">
+  <component name="RunManager" selected="Gradle.engineFT [init]">
     <configuration name="Run" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="cam.Main" />
       <module name="ughug" />
@@ -116,6 +110,7 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="Build" />
+          <artifact name="CleanJar" />
         </option>
       </method>
     </configuration>
@@ -138,12 +133,33 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="engineFT [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/extras/engineFT" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="init" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Application.Run" />
       <item itemvalue="Gradle.engineFT [build]" />
+      <item itemvalue="Gradle.engineFT [init]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.engineFT [init]" />
         <item itemvalue="Gradle.engineFT [build]" />
       </list>
     </recent_temporary>
@@ -194,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571252714198</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="UPDATED!!">
+      <created>1571252869315</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571252869315</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,7 +225,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -214,7 +239,8 @@
     <MESSAGE value="Add more tools?" />
     <MESSAGE value="I want to make this work, so that I can use the extra tools folder to make the app work better in the Main app.&#10;I hope this is possible, and if you have a solution, please share. It would help a lot!" />
     <MESSAGE value="auto build test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="auto build test 2" />
+    <MESSAGE value="UPDATED!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATED!!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

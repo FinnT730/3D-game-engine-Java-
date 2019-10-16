@@ -1,7 +1,6 @@
 package cam;
 
 import cam.utils.Utils;
-import org.codehaus.groovy.runtime.DefaultGroovyMethods;
 
 import javax.swing.*;
 import java.awt.*;
@@ -53,7 +52,6 @@ public class Main extends Component {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.add(new Main());
 
-        
 
     }
 

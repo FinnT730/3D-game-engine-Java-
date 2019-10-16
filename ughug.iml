@@ -8,7 +8,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="groovy-3.0.0-beta-3" level="application" />
-    <orderEntry type="library" scope="RUNTIME" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" name="groovy-3.0.0-beta-3" level="application" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
 </module>
